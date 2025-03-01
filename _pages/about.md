@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "研究兴趣：计算机视觉、图像及视频处理"
+title: "硕导简介"
 author_profile: true
 redirect_from: 
   - /about/
