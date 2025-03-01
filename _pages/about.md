@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BDML"
+title: "硕导简介"
 author_profile: true
 redirect_from: 
   - /about/
