@@ -7,13 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-冯欣，女，博士，硕导，重庆市学术技术带头人后备人选；美国纽约大学工程学院电子工程系博士后；中国计算机学会高级会员，中国仿真学会视觉计算与仿真专委会委员，重庆计算机学会理事，重庆市巴南区女科技工作者联合会秘书长。
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+致力于无人系统智能视觉感知、神经网络模型对抗攻击、医学图像处理及辅助诊疗等方面研究。已在人工智能领域顶级期刊TPAMI，顶级国际会议CVPR、NeurIPS、ICCV和等上发表论文40余篇；授权专利14件。先后主持或主研省部级以上项目16项，其中主持国家自然科学基金青年基金1项、教育部人文社会科学研究项目1项，与长安汽车合作重庆市技术创新与应用发展重点项目1项、重庆市自然科学基金面上项目3项，承担经费300余万元。相关成果已在上海华域视觉科技有限公司的智能头灯系统、长安汽车智能视觉平台、重庆市大渡口区环保局大气污染网格化监控系统、重庆市住建委建设工程安全总站智慧工地平台、重庆市南岸区农委数字渔业创新应用基地等进行成果应用，已产生1000万以上经济效益。被授予重庆理工大学首批“青年英才”，“士继英才·领军人才”称号。
 
 Getting started
 ======
