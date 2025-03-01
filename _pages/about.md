@@ -43,19 +43,3 @@ redirect_from:
 12.X. Feng*, Haoming Wu, Yihao Yin, Libin Lan, CGTracker: Center Graph Network for One-stage Multi-Pedestrian-Object Detection and Tracking, Journal of Computer Science and Technology, 2022, 37(3): 626-640. SCI 二区，中国计算机领域顶刊.
 13.X. Feng, Wenxing Liu, Jiangang Li, Zhiying Meng, Yufeng Sun, Chunyang Feng. Iris R-CNN:Accurate Iris Segmentation and Localization in Non-cooperative Environment with Visible Illumination, Pattern Recognition Letters,155(2022): 151-158, 2022.3, SCI 三区，领域认可高质量期刊。
 14.Chao Tan, X. Feng, Bin Chen, Jianwu Long. TC-ShadowGAN: A Target-Consistency Generative Adversarial Network for Unpaired Shadow Removal, International Conference on Multimedia and Expo, ICME,  2022.7, CCF B类会议
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
