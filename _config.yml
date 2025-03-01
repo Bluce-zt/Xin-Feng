@@ -13,7 +13,7 @@ title                    : "大数据与机器学习实验室"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://Bluce-zt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://bluce-zt.github.io/Xin-Feng/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
